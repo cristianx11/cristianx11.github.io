@@ -13,6 +13,6 @@
   <li style="color:red; font size:12px">lifes hard</li>
   <li style="color:red; font size:12px">hustle</li>
   <li style="color:red; font size 12px">grind</li>
-	<a 
+	
 	</body>
 </html>
