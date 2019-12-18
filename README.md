@@ -28,7 +28,7 @@ ul {
 li {
   float: left;
 }
-
+<a>important</a>
 li a {
   display: block;
   color: white;
@@ -36,12 +36,13 @@ li a {
   padding: 16px;
   text-decoration: none;
 }
-
+<a>important</a>
 li a:hover {
   background-color:#f2ebf2;
 }
   a:hover{
     color:#a032a8;
+    <a>important</a>
   }
   body{
     background-color:#86c9e3;
@@ -61,7 +62,7 @@ li a:hover {
   <li><a href="#services">Services</a><li>
   <li><a href="#contact">Contact</a></li>
   </ul></section><br>
- <h1>Completed by Cristian Rodriguez</h1>
+ <h1>Completed by Cristian Rodriguez</h1></nav>
 </body>
 </html>
 
